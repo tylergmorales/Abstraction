@@ -9,7 +9,7 @@ package fixture;
  *
  * @author Tyler
  */
-public class Lamp extends Electrical {
+public class Lamp extends ElectricalFixture {
     public void activate()
     {
         System.out.println("Emit light");

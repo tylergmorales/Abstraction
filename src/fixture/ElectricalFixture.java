@@ -9,7 +9,7 @@ package fixture;
  *
  * @author Tyler
  */
-public class Electrical extends Fixture{
+public class ElectricalFixture extends Fixture{
     public void activate()
     {
         System.out.println("Electrify");
